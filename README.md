@@ -7,7 +7,7 @@ This disassembler isn't meant to generate assembly which will be then compiled b
 ## How to use?
 
 Help screen
-
+```
 Chip 8 Disassembler 0.1.0
 MD Gaziur Rahman Noor <mdgaziurrahmannoor@gmail.com>
 Makes chip8 bytes readable
@@ -22,3 +22,4 @@ FLAGS:
 OPTIONS:
     -f, --file FILE        The file to make readable
     -o, --output OUTPUT    The file where disassembled text will be stored
+```
